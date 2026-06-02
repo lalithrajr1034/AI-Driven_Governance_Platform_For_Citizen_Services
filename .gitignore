@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+
+
+# this will ignore a data set
+*.csv
